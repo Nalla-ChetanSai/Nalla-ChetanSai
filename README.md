@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Chetan Sai
 
-<!--
-**Nalla-ChetanSai/Nalla-ChetanSai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering student at KL University  
+💻 Aspiring Software Engineer  
+📍 Andhra Pradesh, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Passionate about software development and problem solving
+- Strong foundation in C and Java
+- Interested in building real-world applications
+- Actively looking for internships and entry-level roles
+
+---
+
+## 🛠️ Skills
+- **Programming Languages:** C, Java  
+- **Core Concepts:** Data Structures, OOPs, DBMS (Basics), OS (Basics)  
+- **Tools & Technologies:** Git, VS Code, Arduino IDE, MATLAB  
+
+---
+
+## 📌 Projects
+### 🔹 Smart Saline Monitoring System
+- IoT-based system to monitor saline bottle levels in real time
+- Sends alerts when saline drops below a threshold
+- Technologies: Arduino, Sensors, Embedded Systems
+
+### 🔹 Library Book Circulation System
+- Software application to manage book issue, return, and availability
+- Implemented user authentication and efficient data handling
+
+### 🔹 Indian Constitution Awareness Platform
+- React-based web application with JSON Server backend
+- Displays constitutional articles, rights, and duties
+- Focused on clean UI and smooth navigation
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: chetansainalla08@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/ChetanSai  
+- 🧑‍💻 GitHub: https://github.com/Nalla-ChetanSai
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
