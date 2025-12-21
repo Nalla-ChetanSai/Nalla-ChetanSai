@@ -42,7 +42,3 @@
 - 📧 Email: chetansainalla08@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/ChetanSai  
 - 🧑‍💻 GitHub: https://github.com/Nalla-ChetanSai
-
----
-
-⭐ *Feel free to explore my repositories and connect with me!*
