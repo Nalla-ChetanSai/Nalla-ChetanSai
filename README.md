@@ -8,14 +8,14 @@
 
 ## 🚀 About Me
 - Passionate about software development and problem solving
-- Strong foundation in C and Java
+- Strong foundation in C and Python
 - Interested in building real-world applications
 - Actively looking for internships and entry-level roles
 
 ---
 
 ## 🛠️ Skills
-- **Programming Languages:** C, Java  
+- **Programming Languages:** C, Python  
 - **Core Concepts:** Data Structures, OOPs, DBMS (Basics), OS (Basics)  
 - **Tools & Technologies:** Git, VS Code, Arduino IDE, MATLAB  
 
